@@ -1,5 +1,4 @@
 Microsoft Remote Display Adapter
-VMware SVGA 3D
 Standard VGA Graphics Adapter
 Microsoft Hyper-V Video
 NVIDIA GeForce 840M
